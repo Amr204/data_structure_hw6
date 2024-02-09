@@ -1,0 +1,3 @@
+// first answer is : 18
+// second answer is : 17
+// third answer is : 5
