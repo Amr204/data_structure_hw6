@@ -1,6 +1,4 @@
-// first answer is : 18
-// second answer is : 17
-// third answer is : 5
+
 public class Main {
     public static void transe(LinkedListStack S, LinkedListStack T) {
         while (!S.isEmpty()) {
